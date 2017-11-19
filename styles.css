@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/portland.jpg') no-repeat top center ;
+  background: url('images/laptop_1-wallpaper-1440x900.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -70,7 +70,7 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 3px solid white;
+  /*border: 3px solid white;*/
   transition: all .5s;
 }
 header .profile-image:hover {
@@ -85,8 +85,8 @@ header .profile-image:hover {
   margin: 10px auto;
 }
 .location {
-  background-color: #222;
-  color: yellow;
+  /*background-color: #222;*/
+  color: #E74C3C;
 }
 .card {
   margin: 30px;
